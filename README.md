@@ -2,6 +2,7 @@
 Matrix letters falling like raindrops effect in HTML, CSS and JS.
 
 
+<div>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -71,3 +72,4 @@ Matrix letters falling like raindrops effect in HTML, CSS and JS.
 
     </script>
 </body>
+</div>
